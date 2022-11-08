@@ -23,3 +23,6 @@ npm start
 
 # Database
 Created on MongoDBAtlas
+
+# Tests
+Run in Postman, in the repo there is a test suite that can be imported into Postman directly.
