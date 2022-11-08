@@ -20,9 +20,6 @@ npm run dev
 
 # Start production server:
 npm start
-```
 
-License
--------
-
-MIT
+# Database
+Created on MongoDBAtlas
